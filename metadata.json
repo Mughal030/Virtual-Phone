@@ -1,0 +1,6 @@
+{
+  "name": "Prism",
+  "description": "A fast, modern mobile web browser with advanced multi-profile isolation, tab management, and private browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
